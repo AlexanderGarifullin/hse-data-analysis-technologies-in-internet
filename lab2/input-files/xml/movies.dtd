@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT movies (movie+)>
+<!ATTLIST movies group CDATA #IMPLIED>
+<!ELEMENT movie (title, genres, directors, composers, cast, releaseDate, boxOffice, ageRating, viewers, originalLanguage)>
+<!ATTLIST movie 
+    id CDATA #REQUIRED 
+    country CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genres (genre+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT directors (director+)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT composers (composer+)>
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT cast (actor+)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT boxOffice (#PCDATA)>
+<!ELEMENT ageRating (#PCDATA)>
+<!ELEMENT viewers (#PCDATA)>
+<!ELEMENT originalLanguage (#PCDATA)>

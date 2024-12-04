@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies group="Favorite movies">
+    <movie id="1" country="USA">
+        <title>Inception</title>
+        <genres>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director>Christopher Nolan</director>
+        </directors>
+        <composers>
+            <composer>Hans Zimmer</composer>
+        </composers>
+        <cast>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+            <actor>Elliot Page</actor>
+        </cast>
+        <releaseDate>2010-07-16</releaseDate>
+        <boxOffice>829895144</boxOffice>
+        <ageRating>13+</ageRating>
+        <viewers>90000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+
+    <movie id="2" country="Japan">
+        <title>Spirited Away</title>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Fantasy</genre>
+        </genres>
+        <directors>
+            <director>Hayao Miyazaki</director>
+        </directors>
+        <composers>
+            <composer>Joe Hisaishi</composer>
+        </composers>
+        <cast>
+            <actor>Rumi Hiiragi</actor>
+            <actor>Miyu Irino</actor>
+        </cast>
+        <releaseDate>2001-07-20</releaseDate>
+        <boxOffice>395800000</boxOffice>
+        <ageRating>7+</ageRating>
+        <viewers>23000000</viewers>
+        <originalLanguage>Japanese</originalLanguage>
+    </movie>
+
+    <movie id="3" country="USA">
+        <title>Avatar</title>
+        <genres>
+            <genre>Sci-Fi</genre>
+            <genre>Adventure</genre>
+        </genres>
+        <directors>
+            <director>James Cameron</director>
+        </directors>
+        <composers>
+            <composer>James Horner</composer>
+        </composers>
+        <cast>
+            <actor>Sam Worthington</actor>
+            <actor>Zoe Saldana</actor>
+        </cast>
+        <releaseDate>2009-12-18</releaseDate>
+        <boxOffice>2847246203</boxOffice>
+        <ageRating>13+</ageRating>
+        <viewers>200000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+
+    <movie id="4" country="South Korea">
+        <title>Parasite</title>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director>Bong Joon-ho</director>
+        </directors>
+        <composers>
+            <composer>Jung Jae-il</composer>
+        </composers>
+        <cast>
+            <actor>Song Kang-ho</actor>
+            <actor>Cho Yeo-jeong</actor>
+        </cast>
+        <releaseDate>2019-05-30</releaseDate>
+        <boxOffice>263118694</boxOffice>
+        <ageRating>16+</ageRating>
+        <viewers>15000000</viewers>
+        <originalLanguage>Korean</originalLanguage>
+    </movie>
+
+    <movie id="5" country="USA">
+        <title>The Godfather</title>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director>Francis Ford Coppola</director>
+        </directors>
+        <composers>
+            <composer>Nino Rota</composer>
+        </composers>
+        <cast>
+            <actor>Marlon Brando</actor>
+            <actor>Al Pacino</actor>
+        </cast>
+        <releaseDate>1972-03-24</releaseDate>
+        <boxOffice>250000000</boxOffice>
+        <ageRating>18+</ageRating>
+        <viewers>85000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+	
+	 <movie id="6" country="USA">
+        <title>Avengers: Endgame</title>
+        <genres>
+	    <genre>Sci-Fi</genre>
+            <genre>Action</genre>    
+        </genres>
+        <directors>
+            <director>Anthony Russo</director>
+            <director>Joe Russo</director>
+        </directors>
+        <composers>
+            <composer>Alan Silvestri</composer>
+        </composers>
+        <cast>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Chris Evans</actor>
+            <actor>Mark Ruffalo</actor>
+            <actor>Chris Hemsworth</actor>
+            <actor>Scarlett Johansson</actor>
+            <actor>Jeremy Renner</actor>
+            <actor>Paul Rudd</actor>
+        </cast>
+        <releaseDate>2019-04-26</releaseDate>
+        <boxOffice>2797800564</boxOffice>
+        <ageRating>13+</ageRating>
+        <viewers>220000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+	
+	<movie id="7" country="USA">
+		<title>A Star Is Born</title>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Music</genre>
+		</genres>
+		<directors>
+			<director>Bradley Cooper</director>
+		</directors>
+		<composers>
+			<composer>Lady Gaga</composer>
+		</composers>
+		<cast>
+			<actor>Bradley Cooper</actor>
+			<actor>Lady Gaga</actor>
+		</cast>
+		<releaseDate>2018-10-05</releaseDate>
+		<boxOffice>436200000</boxOffice>
+		<ageRating>18+</ageRating>
+		<viewers>70000000</viewers>
+		<originalLanguage>English</originalLanguage>
+	</movie>
+
+</movies>
