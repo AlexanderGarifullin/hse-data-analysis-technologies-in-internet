@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "movies": {
+      "type": "object",
+      "properties": {
+        "@group": {
+          "type": "string"
+        },
+        "movie": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "@id": {
+                "type": "string"
+              },
+              "@country": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "genres": {
+                "type": "object",
+                "properties": {
+                  "genre": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": ["genre"]
+              },
+              "directors": {
+                "type": "object",
+                "properties": {
+                  "director": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": ["director"]
+              },
+              "composers": {
+                "type": "object",
+                "properties": {
+                  "composer": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": ["composer"]
+              },
+              "cast": {
+                "type": "object",
+                "properties": {
+                  "actor": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": ["actor"]
+              },
+              "releaseDate": {
+                "type": "string",
+                "format": "date"
+              },
+              "boxOffice": {
+                "type": "integer"
+              },
+              "ageRating": {
+                "type": "string"
+              },
+              "viewers": {
+                "type": "integer"
+              },
+              "originalLanguage": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "@id",
+              "@country",
+              "title",
+              "genres",
+              "directors",
+              "composers",
+              "cast",
+              "releaseDate",
+              "boxOffice",
+              "ageRating",
+              "viewers",
+              "originalLanguage"
+            ]
+          }
+        }
+      },
+      "required": ["@group", "movie"]
+    }
+  },
+  "required": ["movies"]
+}

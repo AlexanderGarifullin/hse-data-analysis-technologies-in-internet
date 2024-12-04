@@ -1,0 +1,169 @@
+{
+  "movies": {
+    "@group": "Favorite movies",
+    "movie": [
+      {
+        "@id": "1",
+        "@country": "USA",
+        "title": "Inception",
+        "genres": {
+          "genre": ["Sci-Fi", "Thriller"]
+        },
+        "directors": {
+          "director": ["Christopher Nolan"]
+        },
+        "composers": {
+          "composer": ["Hans Zimmer"]
+        },
+        "cast": {
+          "actor": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"]
+        },
+        "releaseDate": "2010-07-16",
+        "boxOffice": 829895144,
+        "ageRating": "13+",
+        "viewers": 90000000,
+        "originalLanguage": "English"
+      },
+      {
+        "@id": "2",
+        "@country": "Japan",
+        "title": "Spirited Away",
+        "genres": {
+          "genre": ["Animation", "Fantasy"]
+        },
+        "directors": {
+          "director": ["Hayao Miyazaki"]
+        },
+        "composers": {
+          "composer": ["Joe Hisaishi"]
+        },
+        "cast": {
+          "actor": ["Rumi Hiiragi", "Miyu Irino"]
+        },
+        "releaseDate": "2001-07-20",
+        "boxOffice": 395800000,
+        "ageRating": "7+",
+        "viewers": 23000000,
+        "originalLanguage": "Japanese"
+      },
+      {
+        "@id": "3",
+        "@country": "USA",
+        "title": "Avatar",
+        "genres": {
+          "genre": ["Sci-Fi", "Adventure"]
+        },
+        "directors": {
+          "director": ["James Cameron"]
+        },
+        "composers": {
+          "composer": ["James Horner"]
+        },
+        "cast": {
+          "actor": ["Sam Worthington", "Zoe Saldana"]
+        },
+        "releaseDate": "2009-12-18",
+        "boxOffice": 2847246203,
+        "ageRating": "13+",
+        "viewers": 200000000,
+        "originalLanguage": "English"
+      },
+      {
+        "@id": "4",
+        "@country": "South Korea",
+        "title": "Parasite",
+        "genres": {
+          "genre": ["Thriller", "Drama"]
+        },
+        "directors": {
+          "director": ["Bong Joon-ho"]
+        },
+        "composers": {
+          "composer": ["Jung Jae-il"]
+        },
+        "cast": {
+          "actor": ["Song Kang-ho", "Cho Yeo-jeong"]
+        },
+        "releaseDate": "2019-05-30",
+        "boxOffice": 263118694,
+        "ageRating": "16+",
+        "viewers": 15000000,
+        "originalLanguage": "Korean"
+      },
+      {
+        "@id": "5",
+        "@country": "USA",
+        "title": "The Godfather",
+        "genres": {
+          "genre": ["Crime", "Drama"]
+        },
+        "directors": {
+          "director": ["Francis Ford Coppola"]
+        },
+        "composers": {
+          "composer": ["Nino Rota"]
+        },
+        "cast": {
+          "actor": ["Marlon Brando", "Al Pacino"]
+        },
+        "releaseDate": "1972-03-24",
+        "boxOffice": 250000000,
+        "ageRating": "18+",
+        "viewers": 85000000,
+        "originalLanguage": "English"
+      },
+      {
+        "@id": "6",
+        "@country": "USA",
+        "title": "Avengers: Endgame",
+        "genres": {
+          "genre": ["Action", "Sci-Fi"]
+        },
+        "directors": {
+          "director": ["Anthony Russo", "Joe Russo"]
+        },
+        "composers": {
+          "composer": ["Alan Silvestri"]
+        },
+        "cast": {
+          "actor": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson",
+            "Jeremy Renner",
+            "Paul Rudd"
+          ]
+        },
+        "releaseDate": "2019-04-26",
+        "boxOffice": 2797800564,
+        "ageRating": "13+",
+        "viewers": 220000000,
+        "originalLanguage": "English"
+      },
+      {
+        "@id": "7",
+        "@country": "USA",
+        "title": "A Star Is Born",
+        "genres": {
+          "genre": ["Drama", "Music"]
+        },
+        "directors": {
+          "director": ["Bradley Cooper"]
+        },
+        "composers": {
+          "composer": ["Lady Gaga"]
+        },
+        "cast": {
+          "actor": ["Bradley Cooper", "Lady Gaga"]
+        },
+        "releaseDate": "2018-10-05",
+        "boxOffice": 436200000,
+        "ageRating": "18+",
+        "viewers": 70000000,
+        "originalLanguage": "English"
+      }
+    ]
+  }
+}
