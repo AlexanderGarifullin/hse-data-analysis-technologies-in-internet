@@ -1,0 +1,93 @@
+Group: Favorite movies
+
+Movie ID: 1
+Title: Inception
+Country: USA
+Genres: Sci-Fi, Thriller
+Directors: Christopher Nolan
+Composers: Hans Zimmer
+Cast: Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page
+Release Date: 2010-07-16
+Box Office: 829895144
+Age Rating: 13+
+Viewers: 90000000
+Original Language: English
+----------------------------------------
+Movie ID: 2
+Title: Spirited Away
+Country: Japan
+Genres: Animation, Fantasy
+Directors: Hayao Miyazaki
+Composers: Joe Hisaishi
+Cast: Rumi Hiiragi, Miyu Irino
+Release Date: 2001-07-20
+Box Office: 395800000
+Age Rating: 7+
+Viewers: 23000000
+Original Language: Japanese
+----------------------------------------
+Movie ID: 3
+Title: Avatar
+Country: USA
+Genres: Sci-Fi, Adventure
+Directors: James Cameron
+Composers: James Horner
+Cast: Sam Worthington, Zoe Saldana
+Release Date: 2009-12-18
+Box Office: 2847246203
+Age Rating: 13+
+Viewers: 200000000
+Original Language: English
+----------------------------------------
+Movie ID: 4
+Title: Parasite
+Country: South Korea
+Genres: Thriller, Drama
+Directors: Bong Joon-ho
+Composers: Jung Jae-il
+Cast: Song Kang-ho, Cho Yeo-jeong
+Release Date: 2019-05-30
+Box Office: 263118694
+Age Rating: 16+
+Viewers: 15000000
+Original Language: Korean
+----------------------------------------
+Movie ID: 5
+Title: The Godfather
+Country: USA
+Genres: Crime, Drama
+Directors: Francis Ford Coppola
+Composers: Nino Rota
+Cast: Marlon Brando, Al Pacino
+Release Date: 1972-03-24
+Box Office: 250000000
+Age Rating: 18+
+Viewers: 85000000
+Original Language: English
+----------------------------------------
+Movie ID: 6
+Title: Avengers: Endgame
+Country: USA
+Genres: Action, Sci-Fi
+Directors: Anthony Russo, Joe Russo
+Composers: Alan Silvestri
+Cast: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Paul Rudd
+Release Date: 2019-04-26
+Box Office: 2797800564
+Age Rating: 13+
+Viewers: 220000000
+Original Language: English
+----------------------------------------
+Movie ID: 7
+Title: A Star Is Born
+Country: USA
+Genres: Drama, Music
+Directors: Bradley Cooper
+Composers: Lady Gaga
+Cast: Bradley Cooper, Lady Gaga
+Release Date: 2018-10-05
+Box Office: 436200000
+Age Rating: 18+
+Viewers: 70000000
+Original Language: English
+----------------------------------------
